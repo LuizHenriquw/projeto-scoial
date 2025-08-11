@@ -2,7 +2,7 @@
 
 *{
     margin: 0px;
-    padding: 0px;fon
+    padding: 0px;
 }
 
 html, body{
@@ -19,7 +19,7 @@ body{
 main{
     position: relative;
     height: 100vh;
-    background-color: ;
+    
 }   
 
 section#telefone{
@@ -30,4 +30,12 @@ section#telefone{
     width: 311px;
     height: 627px;
     background-image: url(pacote-d013/imagens/frame-iphone.png)  ;
+}
+
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 21px;
+    width: 269px;
+    height: 471px;
 }
